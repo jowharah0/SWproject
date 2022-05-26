@@ -37,6 +37,11 @@ In this Release we updated the js file to match the requirements. now the user w
 
 The result after being processed will be returned to the users page (UI).
 
+# My website User Interface looks like :
+
+![UI1](https://user-images.githubusercontent.com/105464609/170508403-d76f72cd-81a5-4320-acac-ad1ce4de4b7b.png)
+
+
 # Travis CI Testing 
 
 We used Travis CI which wass the first CI as a service tool. it introduced a new approach to building code in the cloud. this tool allows the user to link repository, build and test their apps. As well it is a hosted continuous integration services used to build and test software projects hosted on GitHup.it also provides services for open-source projects for free 
